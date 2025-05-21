@@ -1,0 +1,57 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 25%;
+}
+
+.box img{
+    width: 100%;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 25%;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.contenedor{
+display: flex;
+justify-content: center;
+}
+
+body{
+    margin: 0%;
+}
+
+.menu-navegacion{
+    background-color: brown;
+padding: 10px;
+margin: 0px;}
+
+.menu-navegacion li{
+    display: inline-block
+}
+
+.menu-navegacion a{
+    color: white;
+    text-decoration: none;
+}
+
+/*Pseudo selector*/
+.menu-navegacion a:hover{
+    background-color: blue;}
